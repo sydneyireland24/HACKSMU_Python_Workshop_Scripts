@@ -21,8 +21,6 @@ age = int(input("Please enter your age: "))
 print("Your age is: ", age)
 
 print("====================================================")
-# write a statement that takes in a float from a user and prints it out
-myFloat = float(input("Please enter a float: "))
 
 ''' User Input '''
 print("***************************************************************************************************************")
@@ -76,26 +74,6 @@ print(str2.replace('u', "owo"))
 print(str1 + " Did you know that ", str2)
 
 print("====================================================")
-# create a string that contains your first and last name (bonus points if you put your SSN and give it to me)
-name = "Sydney Gibbs"
-
-# print out the length of that string
-print(len(name))
-
-# print out the first vowel in your name using the indexing method
-print(name[4])
-
-# print out the first 2 letters in your name
-print(name[:2])
-
-# print out the last 3 letters of your name
-print(name[9:])
-
-# print out any two middle letters using bracket notation
-print(name[1:3])
-
-# replace all a's in your name with the letter w (if you have no a's, try e's or i's instead)
-print(name.replace('e', 'w'))
 
 ''' Strings '''
 print("***************************************************************************************************************")
@@ -172,36 +150,6 @@ print(list1)
 print(list2)
 
 print("====================================================")
-# create a list with 6 elements. Idc if its integers, strings, or whatever
-myList = ["Sydney", "Michael", "Ryan", "Emily", "Melissa", "Alex"]
-
-# print your list
-print(myList)
-
-# print the length of your list
-print(myList)
-
-# print the 3rd element from your list
-print(myList[2])
-
-# print the middle 2 elements from your list
-print(myList[2:4])
-
-# print the last 2 elements from your list
-print(myList[4:])
-
-# print the first 2 elements from your list
-print(myList[:2])
-
-# remove 3 elements from your list. One using the .remove() method, one using the pop() method, and one using the del
-# [] method. Print your list after every removal
-
-myList.remove("Alex")
-print(myList)
-myList.pop(1)
-print(myList)
-del myList[1]
-print(myList)
 
 ''' Lists '''
 print("***************************************************************************************************************")
@@ -239,24 +187,6 @@ area = calcArea(2, 5) # notice how I need a variable to store the result of calc
 print(area)
 
 print("====================================================")
-# write a function that takes no arguments and prints out your school's name. Then call that function
-def printSchool():
-    print("SMU")
-
-printSchool()
-
-# write a function that takes 1 argument (an integer), and returns that value squared. Then call that function
-def square(x):
-    return x * x
-
-result = square(9)
-print(result)
-
-# write a function that takes 3 strings, and prints out the first character of each string. Then call that function
-def threeStrings(a, b, c):
-    print(a[0], b[0], c[0])
-
-threeStrings("Southern", "Methodist", "University")
 
 ''' Functions '''
 print("***************************************************************************************************************")
