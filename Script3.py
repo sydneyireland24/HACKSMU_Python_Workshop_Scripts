@@ -21,6 +21,8 @@ age = int(input("Please enter your age: "))
 print("Your age is: ", age)
 
 print("====================================================")
+# Answers go here
+# write a statement that takes in a float from a user and prints it out
 
 ''' User Input '''
 print("***************************************************************************************************************")
@@ -74,6 +76,20 @@ print(str2.replace('u', "owo"))
 print(str1 + " Did you know that ", str2)
 
 print("====================================================")
+# answers go here
+# create a string that contains your first and last name (bonus points if you put your SSN and give it to me)
+
+# print out the length of that string
+
+# print out the first vowel in your name using the indexing method
+
+# print out the first 2 letters in your name
+
+# print out the last 3 letters of your name
+
+# print out any two middle letters using bracket notation
+
+# replace all a's in your name with the letter w (if you have no a's, try e's or i's instead)
 
 ''' Strings '''
 print("***************************************************************************************************************")
@@ -150,6 +166,23 @@ print(list1)
 print(list2)
 
 print("====================================================")
+# answers go here
+# create a list with 6 elements. Idc if its integers, strings, or whatever
+
+# print your list
+
+# print the length of your list
+
+# print the 3rd element from your list
+
+# print the middle 2 elements from your list
+
+# print the last 2 elements from your list
+
+# print the first 2 elements from your list
+
+# remove 3 elements from your list. One using the .remove() method, one using the pop() method, and one using the del
+# [] method. Print your list after every removal
 
 ''' Lists '''
 print("***************************************************************************************************************")
@@ -187,6 +220,12 @@ area = calcArea(2, 5) # notice how I need a variable to store the result of calc
 print(area)
 
 print("====================================================")
+# Answers go here
+# write a function that takes no arguments and prints out your school's name. Then call that function
+
+# write a function that takes 1 argument (an integer), and returns that value squared. Then call that function
+
+# write a function that takes 3 strings, and prints out the first character of each string. Then call that function
 
 ''' Functions '''
 print("***************************************************************************************************************")

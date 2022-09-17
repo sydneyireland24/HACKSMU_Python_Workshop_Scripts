@@ -38,7 +38,8 @@ else:
 
 print("====================================================")
 # answers go here
-
+# write if-else statements to check someone's is under 25, between 25 and 50, or above 50 years old based on their
+# birth year
 
 ''' If-Else Statements and Conditional Statements '''
 print("***************************************************************************************************************")
@@ -70,6 +71,8 @@ print("Final Number: ", number)
 
 print("====================================================")
 # answers go here
+# write a while loop that randomly generates a number UNTIL that number is divisible by 3. If the number is divisible
+# by 10, however, go ahead and prematurely get out of the loop
 
 
 ''' While Loops '''
@@ -103,6 +106,7 @@ for i in range(5, 26, 5):
 
 print("====================================================")
 # answers go here
+# write a four loop that prints all numbers divisible by 3 up to 30
 
 ''' For Loops + Range() Function '''
 print("***************************************************************************************************************")

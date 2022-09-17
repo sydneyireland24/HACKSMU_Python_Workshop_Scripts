@@ -16,6 +16,11 @@ print(99, "bottles of beer on the wall") # you can combine multiple types of dat
 
 print("====================================================")
 # answers go here
+# Can you print "Michael Lennon is the best SMU CS President to ever exist!"? Type your answer below:
+
+# Can you print "42"?
+
+# Can you print "My final score was a 76"?
 
 ''' Print Statements '''
 print("***************************************************************************************************************")
@@ -49,6 +54,12 @@ print(type(test_string))
 
 print("====================================================")
 # answers go here
+# Can you declare a variable called "my_int", assign it the value 56, then print that variable?
+
+# Can you declare a variable called "my_first_name", assign your first name to it, then print "My first name is
+# {your first name}"?
+
+# Can you declare a variable called "my_float" with any float value, then confirm its a float?
 
 ''' Variables '''
 print("***************************************************************************************************************")
@@ -71,7 +82,10 @@ print(10 // 4) # floor division (returns an int)
 
 print("====================================================")
 # answers go here
+# Create a variable called "number of fucks I give", then assign it some number by adding,subtracting,multiplying, etc
+# various numbers, then print it. Go ham
 
+# using division, print a statement that evalutates to 2.0 (hint: I don't want to see 2, I want to see 2.0)
 
 ''' Arithmetic Operators '''
 print("***************************************************************************************************************")
@@ -91,6 +105,9 @@ print("cat" < "catchphrase") # should print true, because cat comes before catch
 
 print("====================================================")
 # answers go here
+# using a comparison operator of your choice, figure out if "Ant" comes before or after "Anteater
+
+# prove that your parents are older than you using variables for the ages, and comparison operators. Print the result.
 
 
 ''' Comparison Operators '''
@@ -143,6 +160,9 @@ print(not(1 + 1 == 3)) # the original statement is false, but with the not opera
 
 print("====================================================")
 # answers go here
+# Write an AND statement that evaluates to true, and one that evaluates to false
+
+# Using variables and the OR operator, write a statement that evaluates to True
 
 ''' Logical Operators '''
 print("***************************************************************************************************************")
